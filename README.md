@@ -1,1 +1,1 @@
-# 343-HW1
+After learning about different GitHub commands, I will list some that I expect to use commonly. I think I will use the git branch, git branch [branch-name], git merge [filebranch], git log, and the different git config commands often. I'm sure I will use many more than that; however those stood out to me as commands that would be used often.
